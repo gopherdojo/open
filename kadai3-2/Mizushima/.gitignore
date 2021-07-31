@@ -1,0 +1,5 @@
+bin/*
+../../.devcontainer/
+../../Dockerfile
+../../app/
+../../docker-compose.yml
